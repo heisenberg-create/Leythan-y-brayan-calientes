@@ -1,0 +1,55 @@
+{
+  "intros": [
+    "Uff...", "Oye...", "Vaya, vaya...", "Mira nada más...", "Mmm...",
+    "Atención...", "A ver, a ver...", "Alerta de calor...", "¡Epa!", "Caramba..."
+  ],
+  "sustantivos": [
+    "mi tentación", "mi secreto", "pecado", "bombón", "fuego ambulante",
+    "deseo prohibido", "corazón", "belleza", "tesoro oculto", "cómplice",
+    "seducción en persona", "llama viva", "fantasía", "capricho", "delicia",
+    "tormento", "recompensa", "vicio", "misterio", "ángel caído",
+    "mirada ardiente", "obsesión", "pecado favorito", "veneno dulce", "imán",
+    "pensamiento ardiente", "sueño prohibido", "chispa", "furia", "delirio"
+  ],
+  "adjetivos": [
+    "insaciable", "provocador/a", "ardiente", "irresistible", "peligroso/a",
+    "prohibido/a", "sensual", "descarado/a", "fascinante", "misterioso/a",
+    "apasionado/a", "intenso/a", "electrizante", "salvaje", "cautivador/a",
+    "embriagador/a", "tentador/a", "explosivo/a", "dulce y picante", "magnético/a",
+    "desenfrenado/a", "hipnótico/a", "sin filtro", "atrevido/a", "subido/a de tono"
+  ],
+  "acciones": [
+    "me haces perder la cabeza", "enciendes el ambiente sin pedir permiso",
+    "subes la temperatura de este servidor", "haces que las reglas dejen de importar",
+    "provocas pensamientos que no se pueden decir en voz alta", "dejas a todos sin respiración",
+    "desatas una tormenta de ideas atrevidas", "haces que el aire se vuelva pesado",
+    "invitas a romper la rutina con un solo mensaje", "robas miradas e intenciones",
+    "despiertas deseos que nadie puede controlar", "conviertes cualquier conversación en un peligro",
+    "haces que el termómetro marque máximo histórico", "aceleras el pulso de cualquiera",
+    "pones a prueba la paciencia de todos", "desordenas los pensamientos de quien te lee",
+    "marcas el ritmo de una noche inolvidable", "dejas una estela de fuego a tu paso",
+    "haces que las miradas hablen solas", "desarmas cualquier compostura",
+    "invitas al pecado sin decir una sola palabra", "haces que la imaginación vuele demasiado lejos",
+    "conviertes la noche en algo peligroso", "enciendes chispas con solo aparecer",
+    "haces que la cordura sea totalmente opcional"
+  ],
+  "lugares": [
+    "en las sombras", "bajo las luces tenues", "a puerta cerrada", "en privado",
+    "donde nadie nos vea", "en la parte más caliente de la noche", "entre líneas",
+    "en lo más profundo de la fantasía", "sin dejar rastro", "en el rincón más oscuro",
+    "a medianoche", "en un suspiro", "sin que nadie sospeche", "bajo cero autocontrol",
+    "en el límite del peligro", "a quemarropa", "en susurros", "sin rodeos",
+    "cara a cara", "en el momento exacto", "entre miradas discretas", "a fuego lento",
+    "sin frenos", "en tierra prohibida", "justo aquí y ahora"
+  ],
+  "cierres": [
+    "🔥 ¿Te atreves a seguir el juego?", "😈 No me hagas hablar de más...",
+    "😏 ¿Vas a asumir la responsabilidad?", "🌶️ Esto apenas comienza.",
+    "✨ Alguien debería ponerte un límite.", "👀 ¿Quién te dio permiso para tanto?",
+    "🖤 Don't say I didn't warn you.", "💋 Guarda el secreto.",
+    "🔥 La temperatura no para de subir.", "💣 Estás jugando con fuego.",
+    "🌙 La noche promete bastante.", "🍷 Salud por los pensamientos atrevidos.",
+    "💥 Cuidado con lo que deseas.", "🎯 Justo en el punto débil.",
+    "⚡ Hay chispas saltando por todos lados."
+  ]
+}
